@@ -74,20 +74,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Gist Media"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254757835036"
+    "value": "2348167893138"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
